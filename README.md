@@ -1,9 +1,14 @@
 # paralelizar-svm
+Esp
+
 Ilustrar como realizar la paralelización de las maquinas de soporte vectorial (svm, svc) utilizando la paqueteria sklearnex y sklearn.
 
 Idealmente la paralelización se realiza utilizando cpu, pero se puede realizar utilizando gpu, el hardware sin embargo debe ser especifico de Intel
 Vease: https://github.com/intel/scikit-learn-intelex/issues/927
 
+--
+
+Eng
 
 Illustrate how to perform support vector machine (svm, svc) parallelization using the sklearnex and sklearn packages.
 
